@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "DM Sans";
+}
+
+body{
+background-color: rgb(60, 60, 60);
+color: white;
+}
+ 
+h1{
+    background-color: rgb(47, 47, 167);
+    padding: 10px;
+}
