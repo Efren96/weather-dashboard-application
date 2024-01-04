@@ -17,7 +17,8 @@ This week we had to make a weather app using html, css, and java script and sinc
 * Once i was done with the styling i created the java script file to start adding functionality to the app.
 
 
-> **Weather Dashboard Application Link**: 
+
+> **Weather Dashboard Application Link**: https://efren96.github.io/weather-dashboard-application/
 
 ### Screenshot
-<img src="./">
+<img src="./Assets/Weather App Screenshot.png">
