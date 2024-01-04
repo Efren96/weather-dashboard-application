@@ -16,10 +16,8 @@ This week we had to make a weather app using html, css, and java script and sinc
 
 * Once i was done with the styling i created the java script file to start adding functionality to the app.
 
-* 
 
-
-> **Quiz Application Link**: 
+> **Weather Dashboard Application Link**: 
 
 ### Screenshot
 <img src="./">
